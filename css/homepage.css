@@ -1,5 +1,42 @@
-img {
-    max-height: 100%;
-    width: auto;
-    
+p.centerp {
+  text-align: center;
+}
+img.displayed{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 300px
+}
+.centerall
+{
+  text-align: center;
+}
+p.padding{
+  padding-top: 100px;
+}
+p.marginb{
+  margin-top: auto;
+
+}
+.cursive{
+  font-family: cursive;
+}
+.container-banner{
+
+}
+.left{
+float: left;
+width: 20%;
+height: 100%;
+margin: 0;
+}
+.purplebanner{
+  background: purple;
+}
+.right{
+  float: right;
+  width: 80%;
+  height: 100%;
+  margin: 0;
 }
